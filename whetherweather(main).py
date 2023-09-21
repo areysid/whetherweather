@@ -103,13 +103,13 @@ t.place(x=400,y=150)
 c=Label(font=("arial",15,"bold"))
 c.place(x=400,y=250)
 
-w=Label(text="...",font=("roboto",18,"bold"),bg="#1ab5ef")
+w=Label(text=" ",font=("roboto",18,"bold"),bg="#1ab5ef")
 w.place(x=125,y=430)
-h=Label(text="...",font=("roboto",18,"bold"),bg="#1ab5ef")
+h=Label(text=" ",font=("roboto",18,"bold"),bg="#1ab5ef")
 h.place(x=270,y=430)
-d=Label(text="...",font=("roboto",18,"bold"),bg="#1ab5ef")
+d=Label(text=" ",font=("roboto",18,"bold"),bg="#1ab5ef")
 d.place(x=430,y=430)
-p=Label(text="...",font=("roboto",18,"bold"),bg="#1ab5ef")
+p=Label(text=" ",font=("roboto",18,"bold"),bg="#1ab5ef")
 p.place(x=670,y=430)
 
 
