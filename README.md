@@ -1,2 +1,2 @@
-# WhetherWeather
-This is a basic weather app created in python using the tkinter() and requests libraries.
+# Progression of work done 
+This branch basically showcases the progress that took place in the making of this app.
