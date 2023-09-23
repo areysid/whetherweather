@@ -1,2 +1,3 @@
-# WhetherWeather
-This is a basic weather app created in python using the tkinter() and requests libraries.
+# Version 
+This branch typically showcases different versions of our WhetherWhether app.
+Modifications as well as new entries are more than welcome
