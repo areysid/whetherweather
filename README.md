@@ -10,6 +10,7 @@ This app is created using python with a very simple User Interface and it is use
 3) The user can then view the current weather along with temperature of that particular place.
 4) The user is also shown the current time of that particular place.
 5) You have the advantage to know the decription, wind, humidity and pressure of the place asked by the user.
+6) The user is also shown the sunrise and sunset time.
 
 
 
