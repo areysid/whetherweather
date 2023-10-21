@@ -11,6 +11,7 @@ This app is created using python with a very simple User Interface and it is use
 4) The user is also shown the current time of that particular place.
 5) You have the advantage to know the decription, wind, humidity and pressure of the place asked by the user.
 6) The user is also shown the sunrise and sunset time.
+7) The user can also see day and date.
 
 
 
@@ -34,3 +35,11 @@ This project is inspired by various projects posted online on youtube. The link 
 
 
 Benfit from the project, and do suggest changes if you feel like!
+
+# Demo
+
+<img width="674" alt="image" src="https://github.com/areysid/whetherweather/assets/135989098/11d16fe5-0b5e-478b-81af-0a7c25d69b9e">
+<img width="673" alt="image" src="https://github.com/areysid/whetherweather/assets/135989098/344f647b-41b2-4306-8eb9-aa3124284315">
+
+
+
